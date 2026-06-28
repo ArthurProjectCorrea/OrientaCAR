@@ -4,6 +4,12 @@
 
 ---
 
+**📱 Manual do Usuário**
+
+- [📖 Manual Completo](Manual-do-Usuario)
+
+---
+
 **📖 O Projeto**
 
 - [🏠 Início](Home)

@@ -3,6 +3,18 @@
 
 Solução desenvolvida para o **haCARthon 2026** — Desafio 1: Simplificar o CAR para o usuário.
 
+![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
+![haCARthon 2026](https://img.shields.io/badge/haCARthon-2026-166534?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-enabled-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-1.170-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3.24-3068B7?style=flat-square)
+![Nitro](https://img.shields.io/badge/Nitro-3.0_beta-FB923C?style=flat-square)
+
 ---
 
 ## O problema
