@@ -1,43 +1,22 @@
 # Impacto Esperado
 
-> [← Viabilidade](Viabilidade) · [Home](Home) · [Implementação →](Implementacao-e-Roadmap)
+## Para o produtor rural
 
----
+O produtor gasta menos tempo para regularizar a situação ambiental da propriedade, sem custo com técnico ou despachante. Com o CAR regularizado, passa a ter acesso a crédito rural e programas ambientais que antes estavam bloqueados. Mais do que isso: deixa de ter medo do processo e passa a enxergar o CAR como acesso a oportunidades, não como burocracia.
 
-## O que muda para cada parte
+## Para os órgãos ambientais
 
-### Para o produtor rural
+Os analistas recebem menos cadastros com erros primários e gastam menos tempo solicitando as mesmas correções repetidas. Com mais tempo livre das retificações simples, conseguem se dedicar aos casos que realmente exigem atenção técnica. A comunicação com o produtor também fica mais eficiente — ele chega ao atendimento já sabendo o que precisa resolver.
 
-- Menos tempo para regularizar a situação ambiental da propriedade
-- Sem custo com técnico ou despachante
-- Acesso desbloqueado a crédito rural e programas ambientais
-- Deixa de ter medo do processo e passa a enxergar o CAR como acesso a oportunidades, não como burocracia
+## Para o CAR nacional
 
-### Para os órgãos ambientais (OEMAs)
-
-- Menos ciclos de retificação
-- Analistas com mais tempo para casos complexos
-- Comunicação mais eficiente com os produtores
-- Redução de atendimentos repetidos para o mesmo cadastro
-
-### Para o CAR nacional
-
-- Cadastros com menos erros e mais qualidade nas informações declaradas
-- Base de dados mais confiável
-- Apoio direto às políticas de desmatamento zero
-
----
+Com cadastros de melhor qualidade, a base de dados do CAR se torna mais confiável. Isso apoia diretamente as políticas de desmatamento zero e dá ao Brasil uma rastreabilidade ambiental mais sólida sobre o território rural.
 
 ## O que muda de verdade
 
-O produtor deixa de ter medo do processo.
-
-Os órgãos ambientais recebem menos cadastros com erros primários.
-
-E o CAR nacional ganha **qualidade e cobertura** — apoiando as políticas de desmatamento zero no Brasil.
+O produtor deixa de ter medo do processo. Os órgãos ambientais recebem cadastros melhores. E o CAR nacional ganha qualidade e cobertura — apoiando as políticas de desmatamento zero no Brasil.
 
 ---
 
-## Próxima página
-
-[Implementação e Roadmap →](Implementacao-e-Roadmap)
+| [← Viabilidade](Viabilidade) | [🏠 Home](Home) | [Implementação e Roadmap →](Implementacao-e-Roadmap) |
+|:---|:---:|---:|

@@ -1,41 +1,22 @@
 # Brainstorm e Processo de Ideação
 
-> [← Voltar para Home](Home)
-
----
-
-## Como a equipe chegou à ideia
-
-A equipe se reuniu para analisar o principal problema do CAR: **o produtor rural não consegue completar o cadastro sozinho.** Listamos as barreiras mais concretas e buscamos uma solução que atacasse todos esses pontos ao mesmo tempo.
-
-**Barreiras identificadas:**
-
-- Dificuldade em desenhar o mapa da propriedade
-- Linguagem técnica incompreensível
-- Falta de orientação sobre quais documentos são necessários
-
----
+A equipe se reuniu para analisar o principal problema do CAR: o produtor rural não consegue completar o cadastro sozinho. Listamos as barreiras mais concretas — dificuldade em desenhar o mapa, linguagem técnica incompreensível e falta de orientação sobre documentos — e buscamos uma solução que atacasse todos esses pontos ao mesmo tempo.
 
 ## As três ideias discutidas
 
-| Ideia | O que fazia | Por que foi descartada |
-|---|---|---|
-| **IA de satélite** | Detectar o polígono da propriedade automaticamente com imagem de satélite | Resolvia só o mapa — não orientava o produtor nas demais etapas |
-| **Painel do analista** | Painel de controle para analistas ambientais (OEMAs) acompanharem os cadastros | Ignorava completamente o produtor — não resolvia o problema na raiz |
-| **App guiado com IA** | App que guia o produtor passo a passo com assistente de IA | ✅ Única que passou no teste decisivo |
+**IA de satélite** — detectar o polígono da propriedade automaticamente com imagem de satélite. Resolveria o problema do mapa, mas ignorava todas as outras etapas do cadastro. O produtor ainda ficaria perdido.
 
----
+**Painel do analista** — um painel de controle para os analistas ambientais acompanharem os cadastros. Útil para os órgãos, mas não ajudava o produtor em nada. O problema continuaria na raiz.
+
+**App guiado com assistente de IA** — um aplicativo que conduz o produtor passo a passo, explica os termos em linguagem simples e avisa quando algo vai dar errado antes de enviar. Essa foi a escolhida.
 
 ## Por que o OrientaCar venceu
 
-O teste foi simples: **o produtor rural conseguiria usar sozinho, sem ajuda de ninguém?**
+O teste foi simples: o produtor rural conseguiria usar sozinho, sem ajuda de ninguém?
 
-- A IA de satélite: não
-- O painel do analista: não
-- O OrientaCar: **sim** — resolve o problema do início ao fim
+A IA de satélite não passava. O painel do analista não passava. O OrientaCar passava — porque resolve o problema do início ao fim, não só uma parte dele.
 
 ---
 
-## Próxima página
-
-[Problema →](Problema)
+| | [🏠 Home](Home) | [O Problema →](Problema) |
+|:---|:---:|---:|
